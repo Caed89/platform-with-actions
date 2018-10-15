@@ -47,7 +47,7 @@ inputs:
     description: Choose your bucket name, must be unique and lowercase
     category: data
     type: text 
-    default: myS3bucket
+    default: mylyrikzbuket.1539596557
     required:  true
       
 outputs:
