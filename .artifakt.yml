@@ -1,6 +1,6 @@
 # Artifact metadata and configuration
 title: Quickstart AWS Terraform
-tag: 1.0.1
+tag: 1.0.2
 type: free # Paid artifacts on the store coming soon
 description: Quickstart to show how an artifact works using AWS S3 Bucket
 cloud_provider: aws
