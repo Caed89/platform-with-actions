@@ -1,5 +1,6 @@
 # Artifact metadata and configuration
 tag: 1.0.2
+artifakt_version: "0.2"
 build_engine: terraform
 available_regions:
   - us-east-1
