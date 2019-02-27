@@ -32,7 +32,7 @@ inputs:
     name: Bucket name
     description: Choose your bucket name, must be unique and lowercase
     category: data
-    type: text 
+    type: textarea 
     default: mylyrikzbuket.1539596557
     required:  true
       
